@@ -1,42 +1,45 @@
 - Mail an Peter bezgl. Zeit (ZGD)
 - http://goo.gl/3i8LCu an Whiteboard
++ Auf Start Folie
 
 Allgemein:
 - Titel überarbeiten
++ ZGD hast du da eine zündende Idee?
 
-
-Zielsetzung:
+/*Done WEB */ Zielsetzung:
 - "Fokus auf der Zykluszeit" + "Termintreue erhöhen" entfernen
 + Verbesserung Zykluszeit --> bessere Termintreue
 
 
-Folie 6 entfernen --> integrieren in 5 (ohne Fokus)
+/*Done WEB */ Folie 6 entfernen --> integrieren in 5 (ohne Fokus)
 
-Folie 7: "Schritt" entfernen
+/*Done WEB */ Folie 7: "Schritt" entfernen
 
 
-Folie 9: - "wo stehen wir jetzt, wo wollen wir hin?"
+/*Done WEB */  Folie 9: - "wo stehen wir jetzt, wo wollen wir hin?"
 
-Folie 10: - nur die drei Typen ohne Titel (+ erklären)
+/*Done WEB */ Folie 10: - nur die drei Typen ohne Titel (+ erklären)
 
-Folie 11:
+/*Done WEB */ Folie 11:
 - "bewerten" erklären (was schaut raus, was kostet es)
 - Thema Priorisierung einführen
 - Aufwand schätzen entfernen
 
-Folie 12:
+/*Done WEB */ Folie 12:
 - erster Punkt weg
 - "Messung vergleichen mit Zielwerten"
 
-Folie 13
+/*Done WEB */Folie 13
 - (Ishikawa Diagramm) rausnehmen
+
+- Ishikawa Diagramm --> WEB neue Version erstellen!
 
 Folie 15
 - Bild vereinfachen (auf Arbeit verweisen)
 
 Folie 16: raus
 
-Folie 17: nur noch Bullets mit Titel der Barriere
+/*Done WEB */ Folie 17: nur noch Bullets mit Titel der Barriere
 
 Folie 18: dito
 Folie 19: dito
